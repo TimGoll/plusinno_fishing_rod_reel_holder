@@ -1,8 +1,9 @@
-# PLUSINNO fising rod reel holder
-Because there are no spare parts available I had to design this part by myself. Best printed sideways.
+# PLUSINNO Fishing Rod Reel Holder
 
-![Reel Holder Top](https://github.com/TimGoll/plusinno_fishing_rod_reel_holder/blob/master/img/reel_holder_top.jpg)<br>
+Because there are no spare parts available I had to design this part by myself. It is best printed sideways.
+
+![Reel Holder Top](assets/reel_holder_top.jpg)
 _(Top View)_
 
-![Reel Holder Bottom](https://github.com/TimGoll/plusinno_fishing_rod_reel_holder/blob/master/img/reel_holder_bottom.jpg)<br>
+![Reel Holder Bottom](assets/reel_holder_bottom.jpg)
 _(Bottom View)_
